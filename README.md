@@ -75,6 +75,17 @@ Choose your vehicle to download the template and view example wraps:
 </tr>
 </table>
 
+## Community Wraps
+
+<table>
+<tr>
+<td align="center" valign="top">
+<a href="pahlavi/"><img src="pahlavi/Pahlavi_Standard.png" width="200"/></a><br/>
+<a href="pahlavi/"><b>Pahlavi / پهلوی</b><br/>Model Y (2025+) Standard & Premium</a>
+</td>
+</tr>
+</table>
+
 ## Requirements & Setup
 
 ### Image Requirements
